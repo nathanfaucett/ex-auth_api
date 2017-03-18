@@ -1,0 +1,3 @@
+Welcome to Auth <%= @email %>!
+
+Follow this link to confirm you email http://api.auth.hackertarian.com/users/confirm/<%= @token %>
